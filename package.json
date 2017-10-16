@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-mentions",
+  "version": "1.0.0",
+  "description": "markdown-it plugin to support Twitter like mentions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiodxa/markdown-it-mentions.git"
+  },
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin",
+    "markdown",
+    "mentions"
+  ],
+  "author": "Sergio Daniel Xalambrí <sergiodxa@gmail.com> (https://sergio.now.sh/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiodxa/markdown-it-mentions/issues"
+  },
+  "homepage": "https://github.com/sergiodxa/markdown-it-mentions#readme",
+  "dependencies": {
+    "markdown-it-regexp": "^0.4.0"
+  }
+}
